@@ -8,3 +8,4 @@ Change made on GitHub
 local change in feature-welcome
 
 Change 1
+Change 2
